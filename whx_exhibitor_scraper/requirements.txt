@@ -1,0 +1,5 @@
+selenium>=4.15,<5
+webdriver-manager>=4.0,<5
+undetected-chromedriver>=3.5.5,<4
+beautifulsoup4>=4.12,<5
+lxml>=5,<6

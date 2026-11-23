@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.DS_Store
+
+# Scrape runtime artifacts
+whx_exhibitor_scraper/output/*.db
+whx_exhibitor_scraper/output/*.csv
+whx_exhibitor_scraper/output/*.json
+whx_exhibitor_scraper/output/*.txt
+whx_exhibitor_scraper/logs/*.log
+whx_exhibitor_scraper/logs/*.log.*
